@@ -9,3 +9,5 @@ Zhirr
 Zeeoneofc 
 
 DepXMeq
+
+website : https://meqx-xyz.herokuapp.com/api
